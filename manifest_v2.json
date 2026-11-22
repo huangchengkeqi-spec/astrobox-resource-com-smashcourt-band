@@ -1,0 +1,39 @@
+{
+  "item": {
+    "id": "com.smashcourt.band",
+    "restype": "quick_app",
+    "name": "休闲羽球",
+    "description": "休闲羽球——一指操控，挥拍开打！\n\n在手环上来一场轻快的羽毛球单打！抓准时机高跳扣杀，灵活切换高远、挑球、平抽和吊球，与三种难度的 AI 对手展开攻防对决。\n\n怎么玩？ 按住空白区域移动，直接点击四角按钮击球：左上后杀、右上前杀、左下平抽或吊球、右下高远球或挑球。",
+    "preview": [
+      "media/cb69619d-acb1-42ef-81fc-85ff5a9b8d4e.png",
+      "media/adb027a5-b9ab-4eb5-adde-99a341ba5464.png",
+      "media/0614a6de-1b8e-4823-be66-6197f5df6134.png",
+      "media/40fd7dad-25a8-4675-8788-56088924e75f.png"
+    ],
+    "icon": "media/休闲羽球_游戏图标_192.png",
+    "cover": "media/3c8587a7-ee19-4644-96dc-81f42e511e07.png",
+    "author": [
+      {
+        "name": "xiaozhukeqi",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10p": {
+      "version": "1.13.0",
+      "file_name": "downloads/com.smashcourt.band.release.1.13.0.rpk",
+      "versionCode": 15
+    }
+  },
+  "ext": {
+    "trialDownloads": {
+      "xmb10p": {
+        "version": "1.13.0",
+        "file_name": "downloads/trial/com.smashcourt.band.release.1.13.0.rpk",
+        "versionCode": 15
+      }
+    }
+  }
+}
